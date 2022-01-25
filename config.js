@@ -111,7 +111,7 @@ const CONFIG = {
         link: 'https://housing.com/',
       },
       {
-        name: 'Soinny',
+        name: 'Spinny',
         link: 'https://www.spinny.com/',
       },
     ],
