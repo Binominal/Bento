@@ -92,15 +92,15 @@ const CONFIG = {
   // ┴─┘┴└─┘ ┴ └─┘
 
   //Icons
-  firstListIcon: 'music',
-  secondListIcon: 'coffee',
+  firstListIcon: 'briefcase',
+  secondListIcon: 'shopping-bag',
 
   // Links
   lists: {
     firstList: [
       {
-        name: 'Inspirational',
-        link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+        name: 'HDFC Netbanking',
+        link: 'https://netbanking.hdfcbank.com/netbanking/',
       },
       {
         name: 'Classic',
@@ -117,8 +117,8 @@ const CONFIG = {
     ],
     secondList: [
       {
-        name: 'Linkedin',
-        link: 'https://linkedin.com/',
+        name: 'Amazon India',
+        link: 'https://www.amazon.in/',
       },
       {
         name: 'Figma',
